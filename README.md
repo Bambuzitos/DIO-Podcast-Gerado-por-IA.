@@ -9,7 +9,7 @@
 
 ## Resultado Final
 
-[SoundCloud] (https://tinyurl.com/LendasdaIAep01)
+[SoundCloud](https://tinyurl.com/LendasdaIAep01)
 
 ## 💻 Tecnologias utilizadas no projeto
 
