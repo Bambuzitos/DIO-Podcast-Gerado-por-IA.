@@ -23,7 +23,7 @@ O podcast tem foco em **Inteligência Artificial** e o **público-alvo** são **
 - No bloco **[CURIOSIDADE 1]**, substitua por **uma curiosidade sobre Redes Neurais**.  
 - No bloco **[CURIOSIDADE 2]**, substitua por **uma ferramenta de Inteligência Artificial para criadores de conteúdo**.  
 - No bloco **[FINALIZAÇÃO]**, substitua por **uma despedida legal** com o final:  
-  > “Eu sou Arthur e esse foi o Lendas da IA dessa semana.”  
+- “Eu sou Arthur e esse foi o Lendas da IA dessa semana.”  
 - Use **termos de fácil explicação**.  
 - O podcast será apresentado **somente por uma pessoa**, chamada **Arthur**.  
 - O podcast deve ser **curto**.  
