@@ -18,6 +18,7 @@
 - [Gemini](https://gemini.google.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Leonardo IA](https://leonardo.ai/)
 
 ## ✨ Como foi feito ?
 
